@@ -1,73 +1,66 @@
-# Welcome to your Lovable project
+# Farm Connect
 
-## Project info
+A platform bridging farmers and consumers through technology.
 
-**URL**: https://lovable.dev/projects/ea0fcb65-3032-4c46-a7b6-4a769db020b4
+## 🌱 Overview
 
-## How can I edit this code?
+Farm Connect is an innovative application designed to connect farmers directly with consumers, eliminating intermediaries and ensuring fair pricing. By leveraging modern technology, it aims to streamline the agricultural supply chain, making it more transparent and efficient.
 
-There are several ways of editing your application.
+## 🚀 Features
 
-**Use Lovable**
+* Direct Farmer-Consumer Interaction: Facilitates seamless communication between farmers and consumers.
+* Real-Time Updates: Provides live updates on crop availability and pricing.
+* User-Friendly Interface: Designed with simplicity in mind for all user levels.
+* Secure Transactions: Ensures safe and transparent transactions between parties.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/ea0fcb65-3032-4c46-a7b6-4a769db020b4) and start prompting.
+## 🛠 Technologies Used
 
-Changes made via Lovable will be committed automatically to this repo.
+* Frontend: React, Tailwind CSS
+* Backend: Node.js, Express
+* Database: PostgreSQL
+* Authentication: Supabase
+* Deployment: Vercel 
 
-**Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## ⚙ Installation
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Clone the repository:
 
-Follow these steps:
+bash
+git clone https://github.com/priyam1502/farm-connect.git
+cd farm-connect
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Install dependencies:
 
-# Step 3: Install the necessary dependencies.
-npm i
+bash
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
 
-**Edit a file directly in GitHub**
+Start the development server:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+bash
+npm start
 
-**Use GitHub Codespaces**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🧪 Running Tests
 
-## What technologies are used for this project?
+To run the test suite:
 
-This project is built with:
+bash
+npm test
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
-## How can I deploy this project?
+## 🤝 Contributing
 
-Simply open [Lovable](https://lovable.dev/projects/ea0fcb65-3032-4c46-a7b6-4a769db020b4) and click on Share -> Publish.
+We welcome contributions! Please fork the repository, create a new branch, and submit a pull request. Ensure your code adheres to the existing style and includes appropriate tests.
 
-## Can I connect a custom domain to my Lovable project?
+## 📞 Contact
 
-Yes, you can!
+For inquiries or support, reach out to:
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+* Email: [priyamj1502@gmail.com](mailto:priyamj1502@gmail.com)
+* LinkedIn: [priyam2804](https://www.linkedin.com/in/priyam2804)
+* Email: [divyanshsen0109@gmail.com](mailto:divyanshsen0109@gmail.com)
+* LinkedIn: [divyansh0109](https://www.linkedin.com/in/divyansh0109)
+* Email: [divyanshijain200718@gmail.com](mailto:divyanshijain200718@gmail.com)
