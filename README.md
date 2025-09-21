@@ -26,31 +26,31 @@ Farm Connect is an innovative application designed to connect farmers directly w
 
 Clone the repository:
 
-bash
+```bash
 git clone https://github.com/priyam1502/farm-connect.git
 cd farm-connect
-
+```
 
 Install dependencies:
 
-bash
+```bash
 npm install
-
+```
 
 Start the development server:
 
-bash
+```bash
 npm start
 
-
+```
 ## 🧪 Running Tests
 
 To run the test suite:
 
-bash
+```bash
 npm test
 
-
+```
 ## 🤝 Contributing
 
 We welcome contributions! Please fork the repository, create a new branch, and submit a pull request. Ensure your code adheres to the existing style and includes appropriate tests.
